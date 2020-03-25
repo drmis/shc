@@ -13,13 +13,22 @@ body {
 }
 
 #goshi{
-
+ position: relative;
    border: solid;
    border-color: cyan;
    width: 30%;
    float: right;
    padding: 10px;
-   color: darkslategrey;
+   color: greenyellow;
    
 }
- 
+.card {
+    position: relative;
+    float: left;
+}
+#shani {
+    float: right;
+    margin-right: 60px;
+    padding-left: 30px;
+    color: blueviolet;
+}
