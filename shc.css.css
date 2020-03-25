@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(20, 195, 207);
+}
+#welc {
+    font-family: fantasy;
+    color: chartreuse;
+}
+
+.sob{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(216, 20, 20);
+    text-align: center;
+}
+
+#goshi{
+
+   border: solid;
+   border-color: cyan;
+   width: 30%;
+   float: right;
+   padding: 10px;
+   color: darkslategrey;
+   
+}
+ 
